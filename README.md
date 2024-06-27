@@ -1,1 +1,1 @@
-# INTERNPE
+# INTERNPE Internship Assignments
